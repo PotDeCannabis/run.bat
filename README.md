@@ -1,4 +1,4 @@
-# run.bat
+# run.bat (For FiveM)
 
 __English:__
    - C:\Desktop\Dev    <- Access path
